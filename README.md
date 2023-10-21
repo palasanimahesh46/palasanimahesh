@@ -1,3 +1,4 @@
+![logo](https://github.com/palasanimahesh46/palasanimahesh/blob/main/Data%20Science.png)
 <h1 align="center">Hi 👋, I'm Mahesh Palasani</h1>
 <h3 align="center">A passionate Data scientist from India</h3>  
 
